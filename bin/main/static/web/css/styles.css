@@ -1,0 +1,37 @@
+.ship{
+    background-image: url("../img/ship.png");
+    background-size: cover;
+    background-attachment: fixed;
+ }
+
+body{
+    background-image: url("../img/mapa.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+table{
+    border: solid 5px black;
+}
+
+tr td{
+    width: 30px;
+    height: 30px;
+    border: solid 2px black;
+    background-color: rgba(173, 151, 119, 0.733);
+}
+
+.salvoWater{
+    background-color: blue;
+}
+
+.salvoDamage{
+    background-color: red;
+}
+
+h3{
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.521);
+}
